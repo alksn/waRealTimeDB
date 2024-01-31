@@ -1,0 +1,24 @@
+//ConnectionString=Data Source=MAIN\SQLEXPRESS;Initial Catalog=RTStat;Persist Security Info=True;User ID=sa;Password=1234
+//ConnectionString=Data Source=MAIN\SQLEXPRESS;Initial Catalog=RTStatNew;Integrated Security=SSPI;
+ConnectionString=Data Source=WIN81\SQLEXPRESS;Initial Catalog=RTStat;Persist Security Info=True;User ID=sa;Password=1234
+
+
+
+pictureFolder=c:\images\
+pictureFolder=c:\images2\
+pictureFolder=c:\images3\
+pictureFolder=c:\imagesX\
+//pictureExt=.png
+pictureDefault=c:\images\default.png
+pictureDefaultShow=true
+
+pictureFixedWidth=false
+highPriority=max
+logToFile=false
+NewsColomnTextLength=4000
+EmptyDateToNull=false
+
+// ссылка на страницу запроса пароля
+// закомментировать строку, если проверка пароля при открытии страницы редактора не требуется
+
+RedirectPage=LoginForm.aspx

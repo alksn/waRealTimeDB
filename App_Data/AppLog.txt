@@ -1,0 +1,12 @@
+user_name=test1|password=1234|action_time=28.02.2018 19:21:02|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 11:58:03|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 12:01:20|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 12:03:31|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 13:31:40|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 14:57:18|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 15:10:08|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 15:35:18|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 15:38:01|action_result=Login successful.|action_ok=True
+user_name=test1|password=1234|action_time=25.01.2021 15:42:04|action_result=Login successful.|action_ok=True
+user_name=admin|password=|action_time=25.01.2021 15:44:56|action_result=Login or password is incorrect.|action_ok=False
+user_name=admin|password=1234|action_time=25.01.2021 15:45:00|action_result=Login successful.|action_ok=True
